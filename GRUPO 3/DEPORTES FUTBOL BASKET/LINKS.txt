@@ -1,0 +1,23 @@
+FUTBOL:
+
+https://www.kaggle.com/datasets/knirantar/playerattributes
+
+https://www.kaggle.com/datasets/oles04/top-leagues-player
+
+https://www.kaggle.com/datasets/antoinekrajnc/soccer-players-statistics
+
+https://www.kaggle.com/datasets/alessiasimone/european-soccer-dataset-season-20172020
+
+BASKET:
+
+ACIERTO DE CANASTAS:
+https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues
+
+PREDICCION DE MVP:
+https://www.kaggle.com/datasets/vivovinco/19912021-nba-stats?select=mvps.csv
+
+ESTADISTICAS DE JUGADORES:
+https://www.kaggle.com/datasets/thomasjohnmahler/nba-player-season-stats?select=1998-1999.csv
+
+MVP:
+https://www.kaggle.com/datasets/darinhawley/nba-all-star-games-19512021
