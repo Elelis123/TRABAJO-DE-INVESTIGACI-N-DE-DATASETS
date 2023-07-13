@@ -1,0 +1,11 @@
+https://www.kaggle.com/datasets/kunalgupta2616/hackerearth-customer-segmentation-hackathon
+
+https://www.kaggle.com/code/kmalit/bank-customer-churn-prediction/data
+
+https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
+
+compra atraves del banco:
+https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
+
+retiro de cuentas:
+https://www.kaggle.com/datasets/santoshd3/bank-customers?select=Churn+Modeling.csv 
